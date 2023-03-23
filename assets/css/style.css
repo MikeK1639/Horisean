@@ -40,7 +40,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* I had to make sure the tags line up to make sure the site did'nt */
 a {
     color: #ffffff;
     text-decoration: none;
